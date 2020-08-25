@@ -1,6 +1,6 @@
 # Awesome Chat
 
-Anneble ammy and Jon to chat
+enable ammy and Jon to chat
 
 
 ## Folder Structure
